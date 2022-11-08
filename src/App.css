@@ -19,18 +19,18 @@ TYPOGRAPHY
 }
 
 .destination-country {
-	font-size: 1.1em;
+	font-size: 1.1rem;
 	font-weight: 300;
 	text-transform: uppercase;
 }
 
 .destination-title {
-	font-size: 1.7em;
+	font-size: 1.7rem;
 	margin-top: 0.5em;
 }
 
 .destination-dates {
-	font-size: 0.8em;
+	font-size: 0.8rem;
 }
 
 .destination-description {
@@ -60,6 +60,9 @@ LAYOUT
 	margin-right: 0.5em;
 }
 
+.header-title {
+	margin-left: .5em;
+}
 
 /* Destination */
 
